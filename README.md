@@ -3,10 +3,16 @@
   
 - 🔭I'm motivated to **learn and teach, ability to adapt to new environments**  
   
-- 🌱 I’m currently learning **MongoDB and web frameworks**  
+- 🌱 I’m currently learning **OpenAI and Sanity**  
 - 🤖 My last public project is [**scraping a form**](https://github.com/Heladit000/scraping-a-form)
   
-- 💬I have experience in **Web development, IoT, MS Office, image editors, video editors, 3D editors, 3D engines, and others**  
+- 💬I’m a Software Developer with a strong ability for self-learning and
+adaptation to diverse technological environments. Specialized in
+web development, both frontend (HTML, CSS, JavaScript, React)
+and backend (Node.js, Python, C, C#, SQL, MongoDB). Experienced
+in API development, IoT system integration, and web platform
+creation. Dedicated to problem-solving and delivering innovative
+and efficient solutions.  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
