@@ -4,7 +4,7 @@
 - 🔭I'm motivated to **learn and teach, ability to adapt to new environments**  
   
 - 🌱 I’m currently learning **OpenAI and Sanity**  
-- 🤖 My last public project is [**scraping a form**](https://github.com/Heladit000/scraping-a-form)
+- 🤖 My last public project is [**use Game**](https://github.com/Heladit000/useGame)
   
 - 💬I’m a Software Developer with a strong ability for self-learning and
 adaptation to diverse technological environments. Specialized in
