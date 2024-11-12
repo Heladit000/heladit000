@@ -3,12 +3,12 @@
   
 - 🔭I'm motivated to **learn and teach, ability to adapt to new environments**  
   
-- 🌱 I’m currently learning **OpenAI and Sanity**  
+- 🌱 I’m currently participating in **the platzi hackathon**  
 - 🤖 My last public project is [**use Game**](https://github.com/Heladit000/useGame)
   
 - 💬I’m a Software Developer with a strong ability for self-learning and
 adaptation to diverse technological environments. Specialized in
-web development, both frontend (HTML, CSS, JavaScript, React)
+web development, both frontend (HTML, CSS, JavaScript, Next.js)
 and backend (Node.js, Python, C, C#, SQL, MongoDB). Experienced
 in API development, IoT system integration, and web platform
 creation. Dedicated to problem-solving and delivering innovative
