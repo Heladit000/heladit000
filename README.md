@@ -3,7 +3,7 @@
   
 - 🔭I'm motivated to **learn and teach, ability to adapt to new environments**  
   
-- 🌱 I’m currently participating in **the platzi hackathon**  
+- 🌱 I’m currently learning **Generative AI**  
 - 🤖 My last public project is [**use Game**](https://github.com/Heladit000/useGame)
   
 - 💬I’m a Software Developer with a strong ability for self-learning and
