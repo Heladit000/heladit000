@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas Prieto (Heladit000)</h1>  
+<h1 align="center">Hi 👋, I'm Nicolas Prieto</h1>  
 <h3 align="center">Software developer interested in creating amazing things!</h3>  
   
 - 🔭I'm motivated to **learn and teach, ability to adapt to new environments**  
